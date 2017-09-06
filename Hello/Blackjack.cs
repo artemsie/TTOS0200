@@ -19,7 +19,9 @@ namespace Hello
             if (theirNumber < 1 || theirNumber > 21)
             {
                 Console.WriteLine("The given number is out of limits, try again.");
+
             }
+            
             else
             {
                 //comparing
